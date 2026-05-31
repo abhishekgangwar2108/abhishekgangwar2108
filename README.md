@@ -9,7 +9,7 @@
 
 ## 💫 About Me:
 
-🎓 I'm **Abhishek**, a passionate Computer Science Engineering student at **Shri Ram Murti Smarak College of Engineering Technology and Research**, driven by curiosity and a deep interest in **Java & Python**, **Full Stack Web Development**, and **Emerging Technologies**.
+🎓 I'm **Abhishek Gangwar**, a passionate Computer Science Engineering student at **Shri Ram Murti Smarak College of Engineering Technology and Research**, driven by curiosity and a deep interest in **Java & Python**, **Full Stack Web Development**, and **Emerging Technologies**.
 
 💡 I thrive on building robust, scalable web applications using **Java**, **React**, and **Node.js**, while also diving deep into **Artificial Intelligence**, **Machine Learning**, and **secure coding practices**. With a strong foundation in **Data Structures and Algorithms**, I love solving real-world problems and optimizing systems for performance and security.
 
